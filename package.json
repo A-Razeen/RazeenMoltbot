@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "clawdbot gateway"
+    "start": "clawdbot gateway --allow-unconfigured"
   },
   "dependencies": {
     "clawdbot": "latest"
